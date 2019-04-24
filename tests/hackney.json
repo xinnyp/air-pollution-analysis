@@ -1,0 +1,106 @@
+{
+  "SiteObjectives": {
+    "Site": {
+      "@SiteCode": "HK6",
+      "@SiteName": "Hackney - Old Street",
+      "@SiteType": "Roadside",
+      "@Latitude": "51.526454",
+      "@Longitude": "-0.08491",
+      "@LatitudeWGS84": "6714951.02162",
+      "@LongitudeWGS84": "-9452.13796326",
+      "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=HK6",
+      "@DataOwner": "Hackney",
+      "@DataManager": "King's College London",
+      "Objective": [
+        {
+          "@SpeciesCode": "DUST",
+          "@SpeciesDescription": "PM10 (not reference equiv.)",
+          "@Year": "2018",
+          "@ObjectiveName": "40 ug/m3 as an annual mean",
+          "@Value": "24",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "DUST",
+          "@SpeciesDescription": "PM10 (not reference equiv.)",
+          "@Year": "2018",
+          "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+          "@Value": "2",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "DUST",
+          "@SpeciesDescription": "PM10 (not reference equiv.)",
+          "@Year": "2018",
+          "@ObjectiveName": "Capture Rate (%)",
+          "@Value": "89",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "NO2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@Year": "2018",
+          "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+          "@Value": "0",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "NO2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@Year": "2018",
+          "@ObjectiveName": "40 ug/m3 as an annual mean",
+          "@Value": "50",
+          "@Achieved": "NO"
+        },
+        {
+          "@SpeciesCode": "NO2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@Year": "2018",
+          "@ObjectiveName": "Capture Rate (%)",
+          "@Value": "99",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "O3",
+          "@SpeciesDescription": "Ozone",
+          "@Year": "2018",
+          "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+          "@Value": "5",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "O3",
+          "@SpeciesDescription": "Ozone",
+          "@Year": "2018",
+          "@ObjectiveName": "Capture Rate (%)",
+          "@Value": "99",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "PM10",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@Year": "2018",
+          "@ObjectiveName": "40 ug/m3 as an annual mean",
+          "@Value": "22",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "PM10",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@Year": "2018",
+          "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+          "@Value": "2",
+          "@Achieved": "YES"
+        },
+        {
+          "@SpeciesCode": "PM10",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@Year": "2018",
+          "@ObjectiveName": "Capture Rate (%)",
+          "@Value": "82",
+          "@Achieved": "YES"
+        }
+      ]
+    }
+  }
+}

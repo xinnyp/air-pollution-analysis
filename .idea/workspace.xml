@@ -13,10 +13,36 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/get_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+            <state relative-caret-position="165">
+              <caret line="29" column="55" lean-forward="true" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/tests/hackney.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/tests/test_get_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,14 +62,18 @@
       <list>
         <option value="$PROJECT_DIR$/data_analysis.py" />
         <option value="$PROJECT_DIR$/get_data.py" />
+        <option value="$PROJECT_DIR$/../AirPollutionAnalysis/tests/hackney.json" />
+        <option value="$PROJECT_DIR$/../AirPollutionAnalysis/__init__.py" />
+        <option value="$PROJECT_DIR$/../AirPollutionAnalysis/tests/test_get_data.py" />
+        <option value="$PROJECT_DIR$/../AirPollutionAnalysis/get_data.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="305" />
-    <option name="y" value="48" />
-    <option name="width" value="1698" />
-    <option name="height" value="1388" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1312" />
+    <option name="y" value="24" />
+    <option name="width" value="1248" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -57,6 +87,11 @@
             <path>
               <item name="AirPoluutioonAnalysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="AirPollutionAnalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AirPoluutioonAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AirPollutionAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -79,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test_get_data">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="AirPollutionAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +149,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AirPollutionAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AirPollutionAnalysis/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AirPollutionAnalysis/tests/test_get_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,6 +223,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_get_data" />
         <item itemvalue="Python.get_data" />
       </list>
     </recent_temporary>
@@ -185,15 +242,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="223" width="1698" height="1388" extended-state="0" />
+    <frame x="1312" y="24" width="1248" height="1416" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18241628" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32977098" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3369735" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32900763" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32977098" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -215,10 +272,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/get_data.py">
+    <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/analysis.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/tests/hackney.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/tests/test_get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AirPollutionAnalysis/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="55" lean-forward="true" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
