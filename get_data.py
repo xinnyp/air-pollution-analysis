@@ -51,6 +51,8 @@ class GetData:
                                                             'objective_name': part['@ObjectiveName'],
                                                             'value': part['@Value'],
                                                             'site_name': item['@SiteName'],
+                                                            'longitude':item['@Longitude'],
+                                                            'latitude': item['@Latitude'],
                                                             'year': part['@Year']}, ignore_index=True)
             except TypeError:
                 list_data = json_data['SiteObjectives']['Site']
@@ -60,6 +62,8 @@ class GetData:
                                                         'objective_name': item['@ObjectiveName'],
                                                         'value': item['@Value'],
                                                         'site_name': list_data['@SiteName'],
+                                                        'longitude': list_data['@Longitude'],
+                                                        'latitude': list_data['@Latitude'],
                                                         'year': item['@Year']}, ignore_index=True)
         return pollution_df
 
